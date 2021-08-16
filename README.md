@@ -11,7 +11,7 @@
   <img align="center" alt="Sidney-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sidney-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sidney-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img height="180em" align="right" alt="Sidney-cat" src="https://pa1.narvii.com/7317/bbcf367e85ac4467ed8a27be5870baf932a05552r1-480-480_hq.gif">
+  <img height="140em" align="right" alt="Sidney-cat" src="https://pa1.narvii.com/7317/bbcf367e85ac4467ed8a27be5870baf932a05552r1-480-480_hq.gif">
 </div>
   
   ##
